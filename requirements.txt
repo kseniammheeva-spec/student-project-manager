@@ -1,0 +1,6 @@
+flask
+flask-sqlalchemy
+pytest
+pytest-cov
+faker
+factory-boy
